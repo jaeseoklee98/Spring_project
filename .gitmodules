@@ -1,1 +1,7 @@
 
+[submodule "spring-prepare"]
+	path = spring-prepare
+	url = https://github.com/jaeseoklee98/Spring_project1.git
+[submodule "spring-mvc"]
+	path = spring-mvc
+	url = https://github.com/jaeseoklee98/Spring_project2.git
