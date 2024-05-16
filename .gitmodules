@@ -1,0 +1,9 @@
+[submodule "Spring_project1"]
+	path = Spring_project1
+	url = https://github.com/jaeseoklee98/Spring_project1.git
+[submodule "folder1"]
+	path = folder1
+	url = https://github.com/jaeseoklee98/Spring_project1.git
+[submodule "folder2"]
+	path = folder2
+	url = https://github.com/jaeseoklee98/Spring_project2.git
